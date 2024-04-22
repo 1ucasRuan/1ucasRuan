@@ -1,19 +1,35 @@
-- 👋 Hi, I’m @Lucas Carvalho...
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<div align="center" style="text-align: center;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=234BEE&lines=Olá,%20+me+chamo+Lucas+Carvalho;Seja+muito+bem+vindo!+:P" alt="Typing SVG">
+  </a>
 </div>
 
-  ##
-
-<div> 
+<div align="center"> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucasruan1.tuc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-carvalho-a2125a186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/lucas-carvalho-a2125a186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+<div>
+  <h3>Eu gosto de...</h3>
+  <br>
+  <ul>
+    <li>👩‍💻 Codar</li>
+    <li>🎮 Jogar</li>
+    <li>☕ Café</li>
+  </ul>
+</div>
+
+<br> </br>
+
+<h2 align="center">Principais tecnologias:</h2>
+</br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,cs,java,spring,react,mysql,git,github,vscode,visualstudio,figma,&perline=8" />
+</div>
+
+<br> </br>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=1ucasruan&layout=compact&hide_border=true&theme=dracula"><a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1ucasruan&theme=dracula" alt="Profile statistics" width="300px" height="163" style="border: none"></a>
+</p>
