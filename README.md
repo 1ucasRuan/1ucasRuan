@@ -30,6 +30,8 @@
 
 <br> </br>
 
+<h2 align="center">💻 GitHub Profile Stats</h3>
+</br>
 <div align="center"> 
   <a href="https://github.com/1ucasruan">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=1ucasruan&layout=compact&hide_border=true&theme=dracula" alt="Profile statistics" height="180em"><a>
