@@ -35,5 +35,5 @@
 <div align="center"> 
   <a href="https://github.com/1ucasruan">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=1ucasruan&layout=compact&hide_border=true&theme=dracula" alt="Profile statistics" height="180em"><a>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1ucasruan&theme=dracula" alt="Profile statistics" height="180em"></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1ucasruan&layout=compact&hide_border=true&theme=dracula" alt="Profile statistics" height="180em"></a>
 </div>
