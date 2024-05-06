@@ -20,7 +20,7 @@
   </ul>
 </div>
 
-<br> </br>
+<br>
 
 <h2 align="center">Principais tecnologias:</h2>
 </br>
@@ -28,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,c,java,spring,react,mysql,git,github,vscode,visualstudio,figma,&perline=8" />
 </div>
 
-<br> </br>
+<br>
 
 <h2 align="center">💻 GitHub Profile Stats</h3>
 </br>
