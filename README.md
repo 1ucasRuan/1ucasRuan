@@ -16,6 +16,7 @@
   <ul>
     <li>👩‍💻 Codar</li>
     <li>🎮 Jogar</li>
+    <li>⚽ Esportes</li>
     <li>☕ Café</li>
   </ul>
 </div>
