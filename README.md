@@ -39,8 +39,3 @@
   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=1ucasruan&show_icons=true&layout=compact&hide_border=true&theme=dracula" alt="Profile statistics" ></a>
   <img height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=1ucasruan&layout=compact&hide_border=true&theme=dracula" alt="Profile statistics" ><a>
 </div>
-
-
-<div align="center">  
-  <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>    
-</div>
