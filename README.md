@@ -37,7 +37,6 @@
 
 <div align="center"> 
   <a href="https://github.com/1ucasruan">
-    ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=1ucasruan&show_icons=true&theme=dracula)
-<!--   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=1ucasruan&show_icons=true&layout=compact&hide_border=true&theme=dracula" alt="Profile statistics" ></a> -->
-  <img height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=1ucasruan&layout=compact&hide_border=true&theme=dracula" alt="Profile statistics" ><a>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=1ucasruan&show_icons=true&theme=dracula" alt="Profile statistics" ></a>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ucasruan&layout=compact&theme=dracula" alt="Profile statistics" ><a>
 </div>
