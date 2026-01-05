@@ -26,17 +26,17 @@
 <h2 align="center">Principais tecnologias:</h2>
 </br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,c,java,mongo,mysql,git,github,&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,vue,py,java,mongo,mysql,git,github,&perline=6" />
 </div>
 
 <br>
 
-<h2 align="center">💻 GitHub Profile Stats</h3>
+<!-- <h2 align="center">💻 GitHub Profile Stats</h3>
 
-</br>
+</br> -->
 
-<div align="center"> 
+<!-- <div align="center"> 
   <a href="https://github.com/1ucasruan">
   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=1ucasruan&show_icons=true&theme=dracula" alt="Profile statistics" ></a>
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ucasruan&layout=compact&theme=dracula" alt="Profile statistics" ><a>
-</div>
+</div> -->
